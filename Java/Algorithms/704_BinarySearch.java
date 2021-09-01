@@ -1,7 +1,7 @@
 package leetcode.algorithms;
 
 /**
- *  @problemNumber 727
+ *  @problemNumber 704
  *  @source https://leetcode.com/problems/binary-search/
  *  @difficulty easy
  *  @author iNzeXt
