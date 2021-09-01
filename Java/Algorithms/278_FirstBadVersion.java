@@ -3,7 +3,7 @@ package leetcode.algorithms;
 import java.util.Random;
 
 /**
- * @problemNumber 278
+ *  @problemNumber 278
  *  @source https://leetcode.com/problems/first-bad-version/
  *  @difficulty easy
  *  @author iNzeXt
