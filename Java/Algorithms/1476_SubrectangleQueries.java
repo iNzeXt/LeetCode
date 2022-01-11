@@ -20,9 +20,9 @@ package leetcode.algorithms;
  */
 public class SubrectangleQueries {
 
-	private int[][] rectangle;
+    private int[][] rectangle;
 	
-	public SubrectangleQueries(int[][] rectangle) {
+    public SubrectangleQueries(int[][] rectangle) {
         this.rectangle = rectangle;
     }
     
@@ -39,7 +39,7 @@ public class SubrectangleQueries {
     }	
     
     public int[][] getRectangle() {
-		return rectangle;
-	}
+	return rectangle;
+    }
 
 }
